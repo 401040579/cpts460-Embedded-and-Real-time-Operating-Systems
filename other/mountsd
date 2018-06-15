@@ -1,0 +1,2 @@
+mount -o loop sdimage /mnt
+ls -l /mnt/bin
